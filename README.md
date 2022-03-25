@@ -22,8 +22,9 @@ Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum
 
 # How to Install
 
-# Uniswap Chrome Extension - HOW TO INSTALL (Tutorial)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ajnLXRGw1to/0.jpg)](https://www.youtube.com/watch?v=ajnLXRGw1to)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ajnLXRGw1to/0.jpg)](https://www.youtube.com/watch?v=ajnLXRGw1to "Uniswap Chrome Extension - HOW TO INSTALL (Tutorial)
+")
 
 1. Open Chrome browser
 
